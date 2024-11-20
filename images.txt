@@ -3,4 +3,4 @@
 alpine:3.7
 --platform=linux/arm64 redis
 usual2970/certimate
---platform=linux/arm64 hyperf/hyperf:8.1-alpine-v3.18-swoole
+--platform=linux/arm/v7 shinsenter/hyperf:php8.2
