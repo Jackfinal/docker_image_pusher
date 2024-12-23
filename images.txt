@@ -4,4 +4,4 @@ alpine:3.7
 --platform=linux/arm64 redis
 usual2970/certimate
 --platform=linux/arm/v7 php:8.2.26-cli-alpine3.20
---platform=linux/arm64v8 php:8.2.26-cli-alpine3.20
+--platform=linux/arm64/v8 php:8.2.26-cli-alpine3.20
