@@ -5,3 +5,4 @@ alpine:3.7
 usual2970/certimate
 --platform=linux/arm/v7 php:8.2.26-cli-alpine3.20
 --platform=linux/arm64/v8 php:8.2.26-cli-alpine3.20
+--platform=linux/arm64 hyperf:8.3-alpine-vedge-swoole-slim-v6
