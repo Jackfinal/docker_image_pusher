@@ -6,4 +6,4 @@ usual2970/certimate
 --platform=linux/arm/v7 php:8.2.26-cli-alpine3.20
 --platform=linux/arm64/v8 php:8.2.26-cli-alpine3.20
 --platform=linux/arm64 hyperf/hyperf:latest
---platform=linux/arm64 hyperf/hyperf:8.1-alpine-v3.16-swoole-slim-v6.0
+--platform=linux/arm64 hyperf/hyperf:8.1-alpine-v3.16-swoole
