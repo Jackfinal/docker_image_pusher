@@ -8,3 +8,5 @@ usual2970/certimate
 --platform=linux/arm64 hyperf/hyperf:latest
 --platform=linux/arm64 hyperf/hyperf:8.1-alpine-v3.16-swoole
 ihmily/douyin-live-recorder:latest
+hyperf/hyperf
+
